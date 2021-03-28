@@ -3,6 +3,9 @@ import Header from '../../components/Header';
 
 const Homepage=({title}) => {
 
+const myList=['Zrobić kawy','Wyprowadzić psa','Poczytać książkę ','Podrzemać','Zjeść kolację'];
+
+
 // const myList=["Piotr","Asia","Paweł","Kamila"];
 
 // const createdList=myList.map(()=>{
