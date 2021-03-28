@@ -3,7 +3,7 @@
 const Header = (props) => {
     return (
         <div>
-            <h1>To jest kurs react-funkcja,witam Cię {props.name}</h1>
+            <h1>Pozostało jeszcze do wykonania kilka przyjemnych zadań:</h1>
         </div>
     )
 }
